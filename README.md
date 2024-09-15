@@ -6,7 +6,7 @@ A ban system that allows to temporarily/permanently ban/mute/block and kick play
 
 Do not distribute or modify the authors of the plugin.
 
-#Commands:
+][ Commands:
     - Ban <player> <reason>
     - Ban-Ip <IP> <reason>
     - Unban or Pardon <name>
@@ -24,7 +24,7 @@ Do not distribute or modify the authors of the plugin.
     - TempMute <player> <TimeFormat> <reason>
     - TempMute-IP <IP> <TimeFormat> <reason>
     - BanList <page>
-  #List of time formats:
+  ][ List of time formats:
     - s -- second
     - m -- minute
     - h -- hour
